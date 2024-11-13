@@ -17,3 +17,7 @@
 - team: 3
   name: "Laura"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILd8CQsABWhCM2o5OfBWzDmRKH4n9g60uQ6o1h4k6SzP laura@Laura-Lpt"
+
+- team: 4
+  name: "Bryan Sanchez"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJYYlxZIdwyykvM1uBTYunHM+iffDzfrek40IpNX5lUw acero@MSI"
