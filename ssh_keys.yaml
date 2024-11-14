@@ -3,8 +3,6 @@
 #   name: "<your name>"
 #   ssh_key: "<your public ssh key>" -> for example: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFLsqwUg6tI3ELIVqKTCMx1F8KKtSiByQs97asJTxtBq user@pcname"
 
-
-
 - team: 1
   name: "Til"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJMrKSe7iSRoUHA5PZtWn0HUGxkFnC42154FT4obR5EF til@Til-VM"
@@ -34,9 +32,6 @@
   name: "Raul"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ9sC48gJCA4ym/oUGucPymQK6gs4g5JpBU30UEDxR7K rahulshahi@Rahuls-MacBook-Air.local"
 
-- team: 6
-  name: "Manju"
-  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBp8EcA2kjTqou8rcI10N0eT1b01vezq4zIgyK0+hM3Z emil@DESKTOP-V71LI94"
 - team: 6
   name: "Lok Sai"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBL7Y7H5bMVhMP1sPyOSm1umgfUs0XG2xh78q8d9kKG6 loksai@LAPTOP-NM56NJ0N"
