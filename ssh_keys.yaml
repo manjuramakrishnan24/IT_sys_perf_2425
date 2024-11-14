@@ -42,3 +42,7 @@
 - team: 7
   name: "Manju"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKXyM9gJ7iv5X3ae6g1+niKqZKjNobAxXbnG5VpP8k+q emil@DESKTOP-V71LI94"
+
+- team: 8
+  name: "Sai Vardhan Kasula"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFku6IB03nvK1/rkO5kQIvDMD6qumwWlzg+PpQjvh8cw vardh@SaiVardhan"
