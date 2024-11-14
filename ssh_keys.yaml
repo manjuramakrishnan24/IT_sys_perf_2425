@@ -33,8 +33,9 @@
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ9sC48gJCA4ym/oUGucPymQK6gs4g5JpBU30UEDxR7K rahulshahi@Rahuls-MacBook-Air.local"
 
 - team: 6
-  name: "Manju"
-  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBp8EcA2kjTqou8rcI10N0eT1b01vezq4zIgyK0+hM3Z emil@DESKTOP-V71LI94"
-- team: 6
   name: "Lok Sai"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBL7Y7H5bMVhMP1sPyOSm1umgfUs0XG2xh78q8d9kKG6 loksai@LAPTOP-NM56NJ0N"
+  
+- team: 7
+  name: "Manju"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKXyM9gJ7iv5X3ae6g1+niKqZKjNobAxXbnG5VpP8k+q emil@DESKTOP-V71LI94"
