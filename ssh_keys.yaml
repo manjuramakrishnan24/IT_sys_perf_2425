@@ -54,3 +54,7 @@
 - team: 10
   name: "Shalu"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII2pBldv5ZRTm2YJ19db+DNShsi6Yor9IZskqBRsx6sy vava@LAPTOP-1V80TR0H"
+
+- team: 11
+  name: "Shubham"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPGojnigs+lBlDEgSPIxbYEOLLhQnB2Bpycvhnx5sLCO shubh@Shubham"
