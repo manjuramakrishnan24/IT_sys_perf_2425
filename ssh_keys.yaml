@@ -51,3 +51,7 @@
 - team: 8
   name: "Sai Vardhan Kasula"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIFku6IB03nvK1/rkO5kQIvDMD6qumwWlzg+PpQjvh8cw vardh@SaiVardhan"
+  
+- team: 9
+  name: "Muhammad Mujtaba Arif"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINV+jFlE7aegjjOMTmnkrhWLlZre4bghcyk3bKdQFpag eshop@DESKTOP-1NHQSUD"
