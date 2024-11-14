@@ -65,3 +65,7 @@
 - team: 12
   name: "Emmanuel"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKptl9IzGc3eRTxP9j+LcY7MizyOcgwSHmIug0URpllu user@Users-MBP.fritz.box"
+
+- team: 13
+  name: "Dhruv"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINJJq1UZJ48goXzpRpowJQExoUMI5nk4Yrt+3jpKeTYP dhruv@LAPTOP-ON59FMU0"
