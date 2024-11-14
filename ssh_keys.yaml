@@ -50,3 +50,7 @@
 - team: 9
   name: "Muhammad Mujtaba Arif"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINV+jFlE7aegjjOMTmnkrhWLlZre4bghcyk3bKdQFpag eshop@DESKTOP-1NHQSUD"
+
+- team: 10
+  name: "Shalu"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAII2pBldv5ZRTm2YJ19db+DNShsi6Yor9IZskqBRsx6sy vava@LAPTOP-1V80TR0H"
