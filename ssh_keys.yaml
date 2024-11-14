@@ -31,3 +31,7 @@
 - team: 5
   name: "Raul"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ9sC48gJCA4ym/oUGucPymQK6gs4g5JpBU30UEDxR7K rahulshahi@Rahuls-MacBook-Air.local"
+ 
+- team: 6
+  name: "Lok Sai"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBL7Y7H5bMVhMP1sPyOSm1umgfUs0XG2xh78q8d9kKG6 loksai@LAPTOP-NM56NJ0N"
