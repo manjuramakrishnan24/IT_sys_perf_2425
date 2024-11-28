@@ -69,3 +69,7 @@
 - team: 13
   name: "Dhruv"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAINJJq1UZJ48goXzpRpowJQExoUMI5nk4Yrt+3jpKeTYP dhruv@LAPTOP-ON59FMU0"
+
+- team: 14
+  name: "Pooja"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKvybRygrdzxgbblC2c2HnSsc/HOfjboyJGGmlVIQ0Hn asus@pooja"
