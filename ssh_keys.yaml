@@ -77,3 +77,7 @@
 - team: 15
   name: "Gopika"
   ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOZin+zFQkUF0Gc6FELBakgIarQhjiun21qA+Pi6OlZu admin@Gopika"
+
+- team: 16
+  name: "Ajay"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIFS+uOoP82nVxPR7bcgakdFewP6F2+T2Se2ccKcXFG2 ajay@AJ"
