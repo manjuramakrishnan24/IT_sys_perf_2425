@@ -38,7 +38,7 @@
   
 - team: 7
   name: "Manju"
-  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKXyM9gJ7iv5X3ae6g1+niKqZKjNobAxXbnG5VpP8k+q emil@DESKTOP-V71LI94"
+  ssh_key: "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHQf1wJmzvgLkFL+mMHekvE4EFJpgTzSDcv6lVzeYwTD manjuramakrishnan@manjus-MacBook-Air.local"
 
 - team: 8
   name: "Nidhi"
